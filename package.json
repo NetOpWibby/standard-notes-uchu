@@ -1,0 +1,12 @@
+{
+  "main": "dist/dist.css",
+  "name": "Uchū",
+  "sn": {
+    "main": "dist/dist.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NetOperatorWibby/standard-notes-uchu.git"
+  },
+  "version": "2021.02.23"
+}
